@@ -1,3 +1,7 @@
+## Whispir feeback
+
+Uses: Sass, jQuery 3.1.1, html5, gulp, google maps API
+
 ### Getting Started
 
 - Run `npm install` install node modules
